@@ -134,3 +134,4 @@ C:\Users\mandr\source\repos\413Final\backend\413Final\413Final\obj\Release\net8.
 C:\Users\mandr\source\repos\413Final\backend\413Final\413Final\obj\Release\net8.0\413Final.pdb
 C:\Users\mandr\source\repos\413Final\backend\413Final\413Final\obj\Release\net8.0\413Final.genruntimeconfig.cache
 C:\Users\mandr\source\repos\413Final\backend\413Final\413Final\obj\Release\net8.0\ref\413Final.dll
+C:\Users\mandr\source\repos\413Final\backend\413Final\413Final\obj\Release\net8.0\413Final.sourcelink.json
