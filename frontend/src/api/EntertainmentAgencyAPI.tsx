@@ -10,7 +10,7 @@ export interface BookingSummary {
   entertainerID: number;
 }
 
-const API_URL = "https://localhost:5000/EntertainmentAgency";
+const API_URL = "https://413final-dngvdrd3dkbcacb6.westus2-01.azurewebsites.net/EntertainmentAgency";
 
 
 // GET /EntertainmentAgency/EntertainersBookingSummary
